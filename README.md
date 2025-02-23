@@ -1,5 +1,5 @@
 # Ejercicio en el que, a partir de un seudo codigo, desarrollo totalmente solo, un modelo ML
-### Pasos
+### Pseudo código
 - Definir el problema a resolver
 - Importar librerías requeridas
 - Obtener el dataset para entrenar y probar el modelo
