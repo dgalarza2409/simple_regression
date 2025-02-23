@@ -1,4 +1,4 @@
-# Ejercicio en el que, a partir de un seudo codigo, desarrollo totalmente solo, un modelo ML
+# Ejercicio en el que, a partir de un seudo codigo, desarrollo totalmente solo, un modelo ML de regression lineal
 ### Pseudo código
 - Definir el problema a resolver
 - Importar librerías requeridas
